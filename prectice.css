@@ -1,0 +1,55 @@
+body {
+    background-color: burlywood;
+}
+
+hr {
+    width: 18%;
+    border: 1px solid darkgreen;
+}
+
+
+div img {
+    height: 400px;
+    width: 500px;
+}
+
+div {
+    margin: 5%;
+    width: 500px;
+    float: left;
+   
+}
+
+h1 {
+    color: darkgreen;
+}
+.fstpera {
+    font-size: 15px;
+    font-weight: initial;
+    column-count: 3;
+    text-align: justify;
+}
+.secpera {
+    font-weight: initial;
+    font-size: 15px;
+    column-count: 3;
+    text-align: justify;
+}
+.nmberone {
+    margin: 1%;
+  
+}
+
+.nmbrtwo {
+   margin: 1%;
+}
+
+.nmbrthree {
+     margin: 1%;
+}
+.thrdpera {
+     font-weight: initial;
+     font-size: 15px;
+     column-count: 3;
+     text-align: justify;
+}
